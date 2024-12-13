@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gsarridis.github.io/sitemap.xml
+Sitemap: https://gsarridis.github.io//sitemap.xml
