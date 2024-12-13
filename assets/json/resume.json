@@ -6,8 +6,10 @@
     "email": "gsarridis@iti.gr",
     "url": "gsarridis.github.io",
     "location": {
+      "address": "6th km Charilaou-Thermi Rd, 57001",
       "city": "Thessaloniki",
       "countryCode": "GR",
+      "region": "Central Macedonia"
     },
     "profiles": [
       {
@@ -33,7 +35,7 @@
       "position": "Research Associate",
       "url": "https://mever.gr/",
       "startDate": "2021-06-01",
-      "endDate": "",
+      "endDate": "present",
       "summary": "Involved in four European-funded research projects and worked on AI fairness, face verification, AI at the edge, NSFW/Disturbing content detection, and development of Android apps integrating AI models.",
       "highlights": []
     },
@@ -55,7 +57,7 @@
       "area": "Fairness Aware Machine Learning for Multimedia Data",
       "studyType": "PhD",
       "startDate": "2022-11-01",
-      "endDate": "",
+      "endDate": "present",
       "score": "",
       "courses": []
     },
@@ -64,7 +66,7 @@
       "location": "Thessaloniki, Greece",
       "url": "https://www.csd.auth.gr/en/",
       "area": "Digital Media - Computational Intelligence",
-      "studyType": "Master",
+      "studyType": "MSc",
       "startDate": "2018-10-01",
       "endDate": "2020-04-01",
       "score": "9",
@@ -75,7 +77,7 @@
       "location": "Thessaloniki, Greece",
       "url": "https://www.csd.auth.gr/en/",
       "area": "Computer Science",
-      "studyType": "Bachelor",
+      "studyType": "BSc",
       "startDate": "2013-09-01",
       "endDate": "2018-07-01",
       "score": "6.82",
