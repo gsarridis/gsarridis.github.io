@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Ioannis Sarridis, Artificial Intelligence, Machine Learning, Deep Learning, AI Bias, AI fairness, Efficient Learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👨‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://gsarridis.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/. Leave blank for root
