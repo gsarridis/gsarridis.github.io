@@ -33,6 +33,7 @@
       "position": "Research Associate",
       "url": "https://mever.gr/",
       "startDate": "2021-06-01",
+      "endDate": "",
       "summary": "Involved in four European-funded research projects and worked on AI fairness, face verification, AI at the edge, NSFW/Disturbing content detection, and development of Android apps integrating AI models.",
       "highlights": []
     },
@@ -54,6 +55,8 @@
       "area": "Fairness Aware Machine Learning for Multimedia Data",
       "studyType": "PhD",
       "startDate": "2022-11-01",
+      "endDate": "",
+      "score": "",
       "courses": []
     },
     {
