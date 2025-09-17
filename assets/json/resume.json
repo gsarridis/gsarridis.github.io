@@ -84,7 +84,15 @@
       "courses": []
     }
   ],
-  "publications": [
+  "highlight publications": [
+    
+    {
+      "name": "MAVias: Mitigate any Visual Bias",
+      "publisher": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+      "releaseDate": "2025-10-01",
+      "url": "https://arxiv.org/pdf/2412.06632?",
+      "summary": "A methodology that exploits foundation models for identifying open-set potential visual biases in visual datasets and mitigating them by learning bias-invariant representations."
+    },
     {
       "name": "FLAC: Fairness-Aware Representation Learning by Suppressing Attribute-Class Associations",
       "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
