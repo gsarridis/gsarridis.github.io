@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ioannis Sarridis",
-    "label": "Deep Learning Researcher",
+    "label": "Postdoctoral Deep Learning Researcher",
     "image": "",
     "email": "gsarridis@iti.gr",
     "url": "gsarridis.github.io",
@@ -32,11 +32,11 @@
   "work": [
     {
       "name": "MeVer, Information Technologies Institute, Centre for Research and Technology Hellas",
-      "position": "Research Associate",
+      "position": "Postdoctoral Researcher",
       "url": "https://mever.gr/",
       "startDate": "2021-06-01",
       "endDate": "present",
-      "summary": "Involved in four European-funded research projects and worked on AI fairness, face verification, AI at the edge, NSFW/Disturbing content detection, and development of Android apps integrating AI models.",
+      "summary": "Involved in five European-funded research projects and worked on AI fairness, face verification, AI at the edge, NSFW/Disturbing content detection, and development of Android apps integrating AI models.",
       "highlights": []
     },
     {
@@ -90,7 +90,7 @@
       "name": "MAVias: Mitigate any Visual Bias",
       "publisher": "IEEE/CVF International Conference on Computer Vision (ICCV)",
       "releaseDate": "2025-10-01",
-      "url": "https://arxiv.org/pdf/2412.06632?",
+      "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Sarridis_MAVias_Mitigate_any_Visual_Bias_ICCV_2025_paper.pdf",
       "summary": "A methodology that exploits foundation models for identifying open-set potential visual biases in visual datasets and mitigating them by learning bias-invariant representations."
     },
     {
